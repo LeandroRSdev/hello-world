@@ -1,2 +1,2 @@
 # hello-world
-Algoritmo "Hello World"
+Exercício - Setup de Ferramentas (Cubos Academy)
